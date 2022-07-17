@@ -27,11 +27,15 @@ body {
  color: #2196F3;
 }
 
-.header-site-list, .header-contact-list  {
+.header-site-link, .header-contact-link   {
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
-    color: black;
+    color: #212121;
+}
+
+.header-contact-link {
+    color: #757575;
 }
 
 .header-site-link:hover, .header-site-link:focus {
@@ -42,9 +46,7 @@ body {
     color: #2196F3;
     }
 
-.header-contact-tel {
-    color: #757575;
-}
+
 
 /* main section of index */
 
