@@ -14,7 +14,7 @@ body {
 .link {
     text-decoration: none;
 }
-/* header section */
+
 .header-logo-first, .header-logo-sec {
     font-family: 'Raleway', sans-serif;
     font-style: normal;
@@ -45,10 +45,6 @@ body {
 .header-contact-link:hover, .header-contact-link:focus {
     color: #2196F3;
     }
-
-
-
-/* main section of index */
 
 .banner {
     background-color: #2F303A;
@@ -121,7 +117,7 @@ body {
     color: #757575;
 }
 
-/* -------------main portfolio------------ */
+
 .labor-click {
     font-size: 16px;
     line-height: 1.62;
@@ -151,10 +147,6 @@ body {
     color: #757575;
 }
 
-
-
-
-/* foooooooteeeeerrrr */
 .footer {
     background-color: #2F303A;
 }
